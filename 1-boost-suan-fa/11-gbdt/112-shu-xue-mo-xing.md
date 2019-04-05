@@ -18,5 +18,5 @@ Fm−1(x)  为当前的模型，gbdt 通过经验风险极小化来确定下一�
 
 ## loss function
 
-![](/assets/1.1.2GBDT_Loss.png)
+![](/assets/GBDT_Loss.png)
 
