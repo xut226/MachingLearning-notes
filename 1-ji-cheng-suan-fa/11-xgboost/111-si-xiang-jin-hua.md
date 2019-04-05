@@ -40,7 +40,7 @@ $$Dv = Ent(D) - \sum_{v=1}^V{\frac{Dv}{D} * Ent(Dv)}$$
 
 $$Gain_ratio(D,a)=\frac{Gain(D,a)}{IV(a)}$$
 其中
-$$IV(a) = -\sum_{v=1}^V{{\frac{|D^v|}{|D|}} {log_2{\frac{|D^v|}{|D|}}}
+$$IV(a) = -\sum_{v=1}^V{{\frac{|D^v|}{|D|}} {log_2{\frac{|D^v|}{|D|}}}$$
 
 
 
