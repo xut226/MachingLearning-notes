@@ -7,3 +7,7 @@
 
 ![](/assets/1.1.1 DT_train.png)
 
+GBDT训练过程：
+
+![](/assets/1.1.1GBDT_train.png)
+
