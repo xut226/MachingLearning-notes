@@ -87,7 +87,7 @@ GBDT算法基树采用CART回归树，树节点的划分指标是平方损失函
 
 GBDT训练过程：
 
-
+![](/assets/1.1.1GBDT_train.png)
 
 ## GBDT的正则化
 
