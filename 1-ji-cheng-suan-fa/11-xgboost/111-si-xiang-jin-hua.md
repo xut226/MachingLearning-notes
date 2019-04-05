@@ -82,11 +82,11 @@ GBDT算法基树采用CART回归树，树节点的划分指标是平方损失函
 
 传统分类决策树训练过程：
 
-![](/assets/1.1.1Traditional_DT.png)
+![](/assets/1.1.1DT_train.png)
 
 GBDT训练过程：
 
-![](/assets/GBDT_Train.png)
+![](/assets/1.1.1GBDT_Train.png)
 
 
 
