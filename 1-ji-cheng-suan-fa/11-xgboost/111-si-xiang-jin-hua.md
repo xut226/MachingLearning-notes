@@ -37,6 +37,7 @@ $$Dv = Ent(D) - \sum_{v=1}^V{\frac{Dv}{D} * Ent(Dv)}$$
 1.2 C4.5
     C4.5使用增益率选择最优划分准则
 * 增益率
+
 $$Gain_ratio(D,a)=\frac{Gain(D,a)}{IV(a)}$$
 其中
 $$IV(a) = -\sum_{v=1}^V{{\frac{|D^v|}{|D|}} {log_2{\frac{|D^v|}{|D|}}}
