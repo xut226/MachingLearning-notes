@@ -5,5 +5,7 @@
   * [1.1 XGBoost](1-ji-cheng-suan-fa/11-xgboost.md)
     * [1.1.1 思想进化:从决策树到XGBoost](1-ji-cheng-suan-fa/11-xgboost/111-si-xiang-jin-hua.md)
   * [1.2 LightGBM](1-ji-cheng-suan-fa/12-lightgbm.md)
-  * 1.3 Adaboost
+  * [1.3 Adaboost](1-ji-cheng-suan-fa/13-adaboost.md)
+  * [1.4 GBDT](1-ji-cheng-suan-fa/14-gbdt.md)
+    * [1.4.1 工作原理](1-ji-cheng-suan-fa/14-gbdt/141-gong-zuo-yuan-li.md)
 

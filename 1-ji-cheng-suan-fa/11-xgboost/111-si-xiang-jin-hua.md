@@ -71,19 +71,9 @@ $$
 
 $$Gini(D)$$反映了从数据集$$D$$中随机抽取两个样本，其类别标记不一致的概率。因此，$$Gini(D)$$越小，数据集$$D$$的纯度越高。
 
-# GBDT\(Gradient Boosting Decision Tree\)
+# 
 
-又称 Multiple Additive Regression Tree,GBDT中的树都是回归树  
-GBDT算法基树采用CART回归树，树节点的划分指标是平方损失函数，叶子节点的值是落在该叶子节点所有样本的目标均值。树与树之间的Boosting逻辑是：新树拟合的目标是上一课树的损失函数的负梯度的值。GBDT最终的输出结果是将样本在所有树上的叶子值相加。
-
-## GBDT工作原理
-
-举例：  
-        人的性别判别/年龄预测，每个instance都是一个已知性别/年龄的人，而feature则包括这个人上网的时长、上网的时段、网购所花的金额等。
-
-传统分类决策树训练过程：
-
-![](/assets/1.1.1 DT_train.png)
+## 
 
 GBDT训练过程：
 
