@@ -21,4 +21,4 @@ $$min_{\beta_m,\gamma_m}\sum_{i=1}^NL(y_i,\sum_{m=1}^M\beta_mb(x;\gamma_m))$$
 对这M个分类器同时实行优化问题太过复杂，因此每一步只对其中一个基函数及其系数进行求解，这样逐步逼近损失函数的最小值，也就是：
     $$min_{\beta_m,\gamma_m}\sum_{i=1}^NL(y_i,f_{m-1}}+beta_mb(x;\gamma_m))$$
 使损失函数最小，那就得使新加的这一项刚好等于损失函数的负梯度
-    ￥￥beta_mb(x;\gamma_m)=-\lambda\frac{\partial L(y,f_{m-1})}{\partial f}$$
+    $$beta_mb(x;\gamma_m)=-\lambda\frac{\partial L(y,f_{m-1})}{\partial f}$$
