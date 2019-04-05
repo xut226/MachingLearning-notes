@@ -18,7 +18,7 @@
 
 信息熵为：
 
-$\sum{i=0}^N\int_{a}^{b}g(t,i)\text{d}t$
+$\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t$
 
 * 信息增益
 
