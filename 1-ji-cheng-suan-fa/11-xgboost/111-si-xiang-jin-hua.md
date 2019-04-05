@@ -53,12 +53,10 @@ $$IV(a) = -\sum_{v=1}^V{\frac{|D^v|}{|D|}log_2{\frac{|D^v|}{|D|}}}$$
 
 1.3 CART
 * 基尼指数
-
 $$
 \begin{equation}\begin{split}
 Gini(D)& = \sum_{k=1}^{|y|} \sum_{k'}p_kp_k' \\
 &= 1 - \sum_{k=1}^{|y|}p_k^2
 \end{split}\end{equation}
 $$
-
 $$Gini(D)$$反映了从数据集$$D$$中随机抽取两个样本，其类别标记不一致的概率。因此，$$Gini(D)$$越小，数据集$$D$$的纯度越高。
