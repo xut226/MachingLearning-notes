@@ -20,7 +20,7 @@ P={p1,p2,...pn}，sub：p1+p2+...+pn=1
 $$
 信息熵为：
 
-$$$$$$Ent(x) = -\sum_{i=0}^n{pi * log(pi)}$$
+$$Ent(x) = -\sum_{i=0}^n{pi * log(pi)}$$
 
 * 信息增益
 
