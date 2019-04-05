@@ -43,8 +43,7 @@ $$Dv = Ent(D) - \sum_{v=1}^V{\frac{Dv}{D} * Ent(Dv)}$$
 * 增益率
 
 $$Gain_ratio(D,a)=\frac{Gain(D,a)}{IV(a)}$$  
-其中  
-$$IV(a) = -\sum_{v=1}^V{\frac{|D^v|}{|D|}log_2{\frac{|D^v|}{|D|}}}$$
+其中  $$IV(a) = -\sum_{v=1}^V{\frac{|D^v|}{|D|}log_2{\frac{|D^v|}{|D|}}}$$
 
 称为属性$$a$$的“固有值“，$$a$$的可能取值数目越多，则$$IV(a)$$的值通常会越大。
 
