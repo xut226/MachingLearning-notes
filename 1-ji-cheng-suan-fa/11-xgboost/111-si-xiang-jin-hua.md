@@ -1,6 +1,4 @@
-1.GBDT
-
-
+1.决策树 Decision Tree
 
 
 
